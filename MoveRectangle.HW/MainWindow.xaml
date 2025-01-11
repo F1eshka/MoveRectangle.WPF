@@ -1,0 +1,27 @@
+﻿<Window x:Class="MoveRectangle.HW.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MoveRectangle.HW"
+        mc:Ignorable="d"
+        Title="MoveBlueRectangle" Height="350" Width="525">
+   
+    <Grid>
+        <Canvas>
+            <Rectangle Name="rectangle" Width="150" Height="80" Fill="Blue"
+               Canvas.Left="280" Canvas.Top="150" 
+               MouseLeftButtonDown="Rectangle_MouseLeftButtonDown"
+               MouseMove="Rectangle_MouseMove"
+               MouseLeftButtonUp="Rectangle_MouseLeftButtonUp"/>
+           
+            <TextBlock Canvas.Left="36" Canvas.Top="30" Text="X:" VerticalAlignment="Top"/>
+            <TextBox Name="XTextBox" Canvas.Left="50" Canvas.Top="30" Width="200" 
+             TextChanged="XTextBox_TextChanged"/>
+            <TextBlock Canvas.Left="36" Canvas.Top="60" Text="Y:" VerticalAlignment="Top"/>
+            <TextBox Name="YTextBox" Canvas.Left="50" Canvas.Top="60" Width="200" 
+             TextChanged="YTextBox_TextChanged"/>
+        </Canvas>
+
+    </Grid>
+</Window>
