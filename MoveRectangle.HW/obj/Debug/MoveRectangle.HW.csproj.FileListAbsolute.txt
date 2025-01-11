@@ -2,7 +2,6 @@ C:\Users\Rog\source\repos\MoveRectangle.HW\MoveRectangle.HW\obj\Debug\MoveRectan
 C:\Users\Rog\source\repos\MoveRectangle.HW\MoveRectangle.HW\obj\Debug\MainWindow.g.cs
 C:\Users\Rog\source\repos\MoveRectangle.HW\MoveRectangle.HW\obj\Debug\App.g.cs
 C:\Users\Rog\source\repos\MoveRectangle.HW\MoveRectangle.HW\obj\Debug\MoveRectangle.HW_MarkupCompile.cache
-C:\Users\Rog\source\repos\MoveRectangle.HW\MoveRectangle.HW\obj\Debug\MoveRectangle.HW_MarkupCompile.lref
 C:\Users\Rog\source\repos\MoveRectangle.HW\MoveRectangle.HW\bin\Debug\MoveRectangle.HW.exe.config
 C:\Users\Rog\source\repos\MoveRectangle.HW\MoveRectangle.HW\bin\Debug\MoveRectangle.HW.exe
 C:\Users\Rog\source\repos\MoveRectangle.HW\MoveRectangle.HW\bin\Debug\MoveRectangle.HW.pdb
